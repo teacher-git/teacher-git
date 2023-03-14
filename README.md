@@ -1,6 +1,9 @@
 ### Hi there 👋
 
-**teacher-git/teacher-git** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align='center'>
+<img width=150 height=140 src="https://media.giphy.com/media/gjrYDwbjnK8x36xZIO/giphy.gif"/>
+</div>
+<h3 align='center'><i> ✨ I'm frontend develper ✨</i> </h3>
 
 Here are some ideas to get you started:
 
